@@ -1,4 +1,4 @@
-<!-- RTW-Claude-Config | file: agents/python-reviewer.md | version: 1.0.0 -->
+<!-- RTW-Claude-Config | file: agents/python-reviewer.md | version: 1.0.1 -->
 ---
 name: python-reviewer
 description: Reviews Python code and ROS 2 packages for quality, best practices and security.

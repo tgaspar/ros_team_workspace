@@ -1,4 +1,4 @@
-<!-- RTW-Claude-Config | file: CLAUDE.md | version: 1.0.0 -->
+<!-- RTW-Claude-Config | file: CLAUDE.md | version: 1.0.1 -->
 # Development Guidelines
 
 ## Agent routing

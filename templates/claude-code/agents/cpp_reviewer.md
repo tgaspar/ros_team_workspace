@@ -1,4 +1,4 @@
-<!-- RTW-Claude-Config | file: agents/cpp_reviewer.md | version: 1.0.0 -->
+<!-- RTW-Claude-Config | file: agents/cpp_reviewer.md | version: 1.0.1 -->
 ---
 name: cpp-pro
 description: "Use this agent when building high-performance C++ systems requiring modern C++20/23 features, template metaprogramming, or zero-overhead abstractions for systems programming, embedded systems, or performance-critical applications."
